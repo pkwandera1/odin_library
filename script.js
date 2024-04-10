@@ -21,29 +21,11 @@ const libraryDisplay = document.getElementById('library');
         read: 'Not yet read',
     },
     {
-        title: 'The Deeper Christian Life',
-        author: 'Andrew Murray',
-        pages: '121',
-        read: 'read',
-    },
-    {
         title: 'Ordering Your Private World',
         author: 'Gordon MacDonald',
         pages: '256 pages',
         read: 'read',
     },
-     {
-        title: 'Realities of a True Christian',
-        author: 'Jeremy B. Strang',
-        pages: '166',
-        read: 'read',
-    },
-    {
-        title: "Receiving God's Guidance",
-        author: 'Ashish Raichur',
-        pages: '93',
-        read: 'read',
-    }
     ];
 
     class Book {
